@@ -2,7 +2,7 @@
 ---
 ## _An online store with a shopping cart(JS, HTML, CSS)_
 
-[Link "Online store"](https://anastasiash29.github.io/online-stor/)
+[Link "Online store"](https://anastasiash29.github.io/online-store/)
 
 ---
 
