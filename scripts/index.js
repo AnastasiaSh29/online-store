@@ -30,7 +30,10 @@ let featuredItems = [];
 class Products {
   async getProducts() {
     try {
-      let result = await fetch("/scripts/products.json");
+      // let result = await fetch("/scripts/products.json");
+      let result = await fetch(
+        "https://anastasiash29.github.io/data/products.json"
+      );
       let data = await result.json();
 
       let products = data.items;
